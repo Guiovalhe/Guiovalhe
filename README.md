@@ -1,4 +1,4 @@
-## Welcomeee ao meu perfil, muito prazer! Sou o Guilherme Ovalhe e faço ADS, atuo em outras áreas como DJ e Investidor!
+## Muito prazer! Sou o **Guilherme Ovalhe** e faço ADS, atuo em outras áreas como DJ e Investidor!
 <div align="center">
   <a href="https://github.com/guiovalhe">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guiovalhe&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -25,7 +25,7 @@
   <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guiovalhe/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+<!--   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) -->
  
 </div>
 
