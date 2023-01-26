@@ -1,4 +1,4 @@
-## Muito prazer! Sou o **Guilherme Ovalhe** e faço análise e desenvolvimento de sistemas pela Uniasselvi.
+## Atualmente, estagiando na unidade de desenvolvimento do Banrisul e fazendo um curso pela DB.
 <div align="center">
   <a href="https://github.com/guiovalhe">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=guiovalhe&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
