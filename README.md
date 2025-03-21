@@ -53,10 +53,16 @@ Agora, estou explorando o mundo do back-end com **Node.js**, cursando a trilha d
 ### **Banrisul - Quality Assurance - Estagiário**
 
 ### **Automação:**
-- Selenium (Java) com framework JUnit;
+- Utilizava Java, Appium e JUnit para automação;
 - Padrão Page Objects (estruturação de projeto em 3 camadas);
-- Testes web e mobile (Appium);
-- Testes de regressão.
+- Testes de regressão;
+- Ferramenta Git para versionamento de código;
+
+### **Testes manuais:**
+- Testes de caixa-preta;
+- Análise de requisitos funcionais;
+- Elaboração de Cenários de Testes, Plano de testes;
+- Validações em bancos de dados (SQL);
 
 - Ferramenta Git para versionamento de código
 
