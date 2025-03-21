@@ -1,50 +1,80 @@
-<!-- ## Atualmente, estagiando na unidade de desenvolvimento do Banrisul e fazendo um curso pela DB. !-->
 <div align="center">
-  <a href="https://github.com/guiovalhe">
- <!-- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=guiovalhe&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> !-->
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiovalhe&layout=compact&langs_count=7&theme=dark"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5000&vCenter=true&multiline=true&width=600&separator=%3C&lines=System.out.println(%22Prazer%2C+Guilherme+Ovalhe%22);" alt="Typing SVG" /></a>
 </div>
-<!-- <div style="display: inline_block"><br>
-  <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gui-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Gui-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Gui-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Gui-pic" height="150" style="border-radius:50px;" src="https://github.com/Guiovalhe/Guiovalhe/blob/main/eu.png">
-</div> -->
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/guiovalhe" style="text-decoration: none; outline: none; border: none;">
+    <img src="https://img.icons8.com/?size=50&id=xuvGCOXi8Wyg&format=png&color=000000" alt="LinkedIn" style="border: none; outline: none; margin-right: 15px;" />
+  </a>
+  <a href="mailto:guiovalhe@gmail.com" style="text-decoration: none; outline: none; border: none;">
+    <img src="https://img.icons8.com/?size=50&id=P7UIlhbpWzZm&format=png&color=000000" 
+  </a>
+  <a href="https://soundcloud.com/guiovalhemusic/ovalhe1anomove" style="text-decoration: none; outline: none; border: none;">
+    <img src="https://img.icons8.com/?size=45&id=57qlOUDH6X8K&format=png&color=000000" alt="SoundCloud" style="border: none; outline: none;" />
+  </a>
   
-  ##
- 
-<div> 
+</div>
 
-<a href="https://www.linkedin.com/in/guiovalhe/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href = "mailto:guiovalhe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://www.youtube.com/channel/UCJX3ZM5LH1XRkXvuReEY8Dw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/guiovalhe" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/guizoide" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/FKEUsYS" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
- 
-  
- 
- </div>
+---
 
-  <!-- ![Snake animation](https://github.com/guiovalhe/guiovalhe/blob/output/github-contribution-grid-snake.svg)
- 
+Tive minha experiência de 2 anos como estagiário no **Banrisul**, no time de Investimentos, atuando como QA em testes manuais e automatizados com **Java**. Durante esse período, aprimorei minhas habilidades em automação de testes para aplicações Android. 
+
+Agora, estou explorando o mundo do back-end com **Node.js**, cursando a trilha de **Node.js** na **Rocketseat** e ansioso para começar a trilha de **React**, por curiosidade e aprendizado, para ser sincedo, caminhando para uma transição de carreira.
+
+## 🚀 _**Sobre Mim**_
+
+- 🌍 Rio do Rio Grande do Sul, Brasil
+- 🎓 Estudante de Analise e Desenvolviomento de Sistemas
+- 🔎 QA Júnior apaixonado por automação de testes
+- 🔥 Experiência com testes automatizados em aplicação mobile, utilizando Java
+- 🎵 DJ e Produtor 
+
+##  _**Linguagens e Ferramentas**_
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+</div>
+
+---
+
+## 🛠 _**Experiências**_
+### **Banrisul - Quality Assurance - Estagiário**
+
+### **Automação:**
+- Selenium (Java) com framework JUnit;
+- Padrão Page Objects (estruturação de projeto em 3 camadas);
+- Testes web e mobile (Appium);
+- Testes de regressão.
+
+- Ferramenta Git para versionamento de código
+
+### Atuação em todas as etapas do processo de desenvolvimento:
+- Escrita de Histórias de Usuário com PO
+- Revisão de protótipos com UI/UX Designer
+- Suporte aos desenvolvedores
+- Metodologia ágil (Scrum)
+
+### **Linguagens & Frameworks:**
+- 💻 Java
+- 🚀 Selenium | Appium | JUnit
+
+### **Ferramentas & Metodologias:**
+- 🛠 Git | Jenkins | Postman
+- 📊 MySQL
+- ⚡ Scrum | Kanban
+
+---
 
 
-<!--
-**Guiovalhe/Guiovalhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
